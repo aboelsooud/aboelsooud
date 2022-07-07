@@ -19,7 +19,7 @@
 - I'm a junior **Computer Science** student at Suez Canal University.
 - I’m currently learning **Computer Science** and **Software Engineering**.
 - I enjoy **Problem Solving** and **Competitive Programming**.
-- You can look at my <a href="https://drive.google.com/file/d/1JUIZ4dOMmfjXmYCHS-z4Aat6TbZWHWYn/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience.
+- You can look at my <a href="https://drive.google.com/file/d/1JUIZ4dOMmfjXmYCHS-z4Aat6TbZWHWYn/view?usp=sharing" target="_blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience.
 
 <hr> 
 
@@ -30,15 +30,15 @@
 ## My competitive programming profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/aboelsoudJr" target = "blank" ><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+  <a href="https://codeforces.com/profile/aboelsoudJr" target = "_blank" ><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	&emsp;
-  <a href="https://leetcode.com/aboelsoudJr/" target = "blank" ><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/aboelsoudJr/" target = "_blank" ><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	&emsp;
-  <a href="https://atcoder.jp/users/aboelsoud" target = "blank" ><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
+  <a href="https://atcoder.jp/users/aboelsoud" target = "_blank" ><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	&emsp;
-  <a href="https://www.codechef.com/users/aboelsoudjr" target = "blank" ><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+  <a href="https://www.codechef.com/users/aboelsoudjr" target = "_blank" ><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	&emsp;
-  <a href="https://www.codingame.com/profile/7a8e80b8fd2d79293f2b54be2434ac183358764" target = "blank" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+  <a href="https://www.codingame.com/profile/7a8e80b8fd2d79293f2b54be2434ac183358764" target = "_blank" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
   
 <hr> 
@@ -114,10 +114,10 @@
 ## How to reach me
 
 <p align="center">
-	<a href="mailto:mahmoudabooelsooud@gmail.com" target = "blank"><img img src="pics/gmail.svg" alt="Gmail" title="gmail" width="50px"/></a>
-	<a href="https://github.com/aboelsooud" target = "blank"><img src="pics/github.svg" alt="GitHub" title="github" width="50px"/></a>
-	<a href="https://www.linkedin.com/in/aboelsooud/" target = "blank"><img src="pics/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
-	<a href="https://www.facebook.com/Mahmoud.Aboalsoud.71/" target = "blank"><img src="pics/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
+	<a href="mailto:mahmoudabooelsooud@gmail.com" target = "_blank"><img img src="pics/gmail.svg" alt="Gmail" title="gmail" width="50px"/></a>
+	<a href="https://github.com/aboelsooud" target = "_blank"><img src="pics/github.svg" alt="GitHub" title="github" width="50px"/></a>
+	<a href="https://www.linkedin.com/in/aboelsooud/" target = "_blank"><img src="pics/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
+	<a href="https://www.facebook.com/Mahmoud.Aboalsoud.71/" target = "_blank"><img src="pics/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
 </p>
   
   
