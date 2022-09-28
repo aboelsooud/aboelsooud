@@ -20,7 +20,7 @@
 - I'm an **ACPC 2022** Finalist
 - I’m currently learning **Computer Science** and **Software Engineering**.
 - I enjoy **Problem Solving** and **Competitive Programming**.
-- You can look at my <a href="https://drive.google.com/file/d/1JUIZ4dOMmfjXmYCHS-z4Aat6TbZWHWYn/view?usp=sharing" target="_blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience.
+- You can look at my <a href="https://drive.google.com/file/d/1k8JtLZOAzxmVSZOWobK5pUfuB-57vWko/view?usp=sharing" target="_blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience.
 
 <hr> 
 
