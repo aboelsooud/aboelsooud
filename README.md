@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Junior+Computer+Science+Student;ACPC+Finalist;Competitive+Programmer"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Senior+Computer+Science+Student;ACPC+Finalist;Competitive+Programmer"></a>
 </p>
 
 <hr>
@@ -16,7 +16,7 @@
 
 ## About me
 
-- I'm a junior **Computer Science** student at Suez Canal University.
+- I'm a senior **Computer Science** student at Suez Canal University.
 - I'm an **ACPC 2022** Finalist
 - I’m currently learning **Computer Science** and **Software Engineering**.
 - I enjoy **Problem Solving** and **Competitive Programming**.
