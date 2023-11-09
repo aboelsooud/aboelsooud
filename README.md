@@ -1,10 +1,10 @@
-# <p align = "center"> 👋Hey There! </p>
+# <p align = "center"> 👋 Hey There! </p>
 
 ## I'm **Mahmoud Aboelsoud**
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Senior+Computer+Science+Student;ACPC+Finalist;Competitive+Programmer"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Fresh+Graduate;2x+ACPC+Finalist;Competitive+Programmer"></a>
 </p>
 
 <hr>
@@ -16,8 +16,8 @@
 
 ## About me
 
-- I'm a senior **Computer Science** student at Suez Canal University.
-- I'm an **ACPC 2022** Finalist
+- I'm a **Fresh Graduate** from **Faculty of Computers & Informatics** at Suez Canal University.
+- I'm a **2x ACPC Finalist**.
 - I’m currently learning **Computer Science** and **Software Engineering**.
 - I enjoy **Problem Solving** and **Competitive Programming**.
 - You can look at my <a href="https://drive.google.com/file/d/1BxC5xCKzJvSRhIoxlx0AQmco1WnLi5dW/view?usp=sharing" target="_blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience.
@@ -39,7 +39,6 @@
 	&emsp;
   <a href="https://www.codechef.com/users/aboelsoudjr" target = "_blank" ><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	&emsp;
-  <a href="https://www.codingame.com/profile/7a8e80b8fd2d79293f2b54be2434ac183358764" target = "_blank" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
   
 <hr> 
