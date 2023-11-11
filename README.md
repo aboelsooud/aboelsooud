@@ -1,6 +1,6 @@
 # <p align = "center"> 👋 Hey There! </p>
 
-## I'm **Mahmoud Aboelsoud**
+## <p align = "center"> I'm Mahmoud Aboelsoud </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
